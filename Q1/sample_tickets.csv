@@ -1,0 +1,4 @@
+PNR,PassengerName,TrainNo,Coach,Berth,Boarding,Destination,Fare
+4512890123,Rahul Reddy,12622,B2,41/LB,MAS,NDLS,1845.00
+4512890124,Ananya Sharma,12622,B2,42/MB,MAS,NDLS,1845.00
+4512890125,Karthik Nair,12759,S4,12/UB,MAS,HYB,620.00
